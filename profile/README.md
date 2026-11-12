@@ -1,7 +1,7 @@
-# REACH: Research Evaluation & Analytics Capacity Hub
+![The logo for the REACH.](reach-logo-full.png)
 
-REACH is a global community of research administrators, analysts, librarians and
-researchers working on research analytics and responsible research assessment.
+The Research Evaluation & Analytics Capacity Hub (REACH) is a global community of research administrators,
+analysts, librarians and researchers working on research analytics and responsible research assessment.
 This organization holds the code and data our members publish openly, so that
 someone facing a familiar problem can start from work that's already been done.
 
